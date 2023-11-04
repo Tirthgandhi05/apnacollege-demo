@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository
 <br>
-Author - Tirth Gandhi
+Author - Tirth Kaushal Gandhi
